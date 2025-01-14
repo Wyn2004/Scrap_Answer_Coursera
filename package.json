@@ -1,0 +1,16 @@
+{
+  "name": "tool-scrap-data-coursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "puppeteer": "^24.0.0"
+  }
+}
